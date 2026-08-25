@@ -1,0 +1,3 @@
+files:
+  - source: /Nagram/Strings/Strings/en.lproj/NagramLocalizable.strings
+    translation: /Nagram/Strings/Strings/%osx_code%/%original_file_name%
